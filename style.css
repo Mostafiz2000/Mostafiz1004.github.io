@@ -443,19 +443,19 @@ background:rgb(73, 20, 220);
     width: 70%;
 }
 .skills-content .right .Java::before{
-    width: 60%;
+    width: 40%;
 }
 .skills-content .right .linux::before{
     width: 60%;
 }
 .skills-content .right .python::before{
-    width: 40%;
+    width: 80%;
 }
 .skills-content .right .css::before{
     width: 75%;
 }
 .skills-content .right .js::before{
-    width: 50%;
+    width: 70%;
 }
 
 
